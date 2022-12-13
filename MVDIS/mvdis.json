@@ -1,0 +1,213 @@
+[
+    {
+        "selDeptCode": "2",
+        "selStationCode": "20",
+        "selDeptName": "台北市",
+        "selStationName": "台北市區監理所",
+        "location": "臺北市八德路4段21號地下室"
+    },
+    {
+        "selDeptCode": "2",
+        "selStationCode": "21",
+        "selDeptName": "台北市",
+        "selStationName": "士林監理站",
+        "location": "台北市士林區承德路5段80號"
+    },
+    {
+        "selDeptCode": "2",
+        "selStationCode": "25",
+        "selDeptName": "台北市",
+        "selStationName": "基隆監理站",
+        "location": "基隆市七堵區實踐路296號一樓"
+    },
+    {
+        "selDeptCode": "2",
+        "selStationCode": "26",
+        "selDeptName": "台北市",
+        "selStationName": "金門監理站",
+        "location": "金門縣金湖鎮黃海路6之1號"
+    },
+    {
+        "selDeptCode": "2",
+        "selStationCode": "28",
+        "selDeptName": "台北市",
+        "selStationName": "連江監理站",
+        "location": "連江縣南竿鄉津沙村155號"
+    },
+    {
+        "selDeptCode": "3",
+        "selStationCode": "30",
+        "selDeptName": "高雄市",
+        "selStationName": "高雄市區監理所",
+        "location": "高雄市楠梓區德民路71號"
+    },
+    {
+        "selDeptCode": "3",
+        "selStationCode": "33",
+        "selDeptName": "高雄市",
+        "selStationName": "旗山監理站",
+        "location": "高雄市旗山區旗文路123-1號"
+    },
+    {
+        "selDeptCode": "4",
+        "selStationCode": "40",
+        "selDeptName": "台北區",
+        "selStationName": "台北區監理所",
+        "location": "新北市樹林區中正路248巷7號B棟1樓"
+    },
+    {
+        "selDeptCode": "4",
+        "selStationCode": "43",
+        "selDeptName": "台北區",
+        "selStationName": "宜蘭監理站",
+        "location": "宜蘭縣五結鄉中正路二段9號一樓"
+    },
+    {
+        "selDeptCode": "4",
+        "selStationCode": "44",
+        "selDeptName": "台北區",
+        "selStationName": "花蓮監理站",
+        "location": "花蓮縣吉安鄉中正路二段152號一樓"
+    },
+    {
+        "selDeptCode": "5",
+        "selStationCode": "50",
+        "selDeptName": "新竹區",
+        "selStationName": "新竹區監理所",
+        "location": "新竹縣新埔鎮文德路三段58號"
+    },
+    {
+        "selDeptCode": "5",
+        "selStationCode": "51",
+        "selDeptName": "新竹區",
+        "selStationName": "新竹市監理站",
+        "location": "新竹市自由路10號"
+    },
+    {
+        "selDeptCode": "5",
+        "selStationCode": "52",
+        "selDeptName": "新竹區",
+        "selStationName": "桃園監理站",
+        "location": "桃園市桃園區介壽路416號"
+    },
+    {
+        "selDeptCode": "5",
+        "selStationCode": "53",
+        "selDeptName": "新竹區",
+        "selStationName": "中壢監理站",
+        "location": "桃園市中壢區延平路394號"
+    },
+    {
+        "selDeptCode": "5",
+        "selStationCode": "54",
+        "selDeptName": "新竹區",
+        "selStationName": "苗栗監理站",
+        "location": "苗栗縣苗栗市福麗里福麗98號"
+    },
+    {
+        "selDeptCode": "6",
+        "selStationCode": "60",
+        "selDeptName": "台中區",
+        "selStationName": "台中區監理所",
+        "location": "台中市大肚區遊園路一段2號"
+    },
+    {
+        "selDeptCode": "6",
+        "selStationCode": "63",
+        "selDeptName": "台中區",
+        "selStationName": "豐原監理站",
+        "location": "台中市豐原區豐東路120號"
+    },
+    {
+        "selDeptCode": "6",
+        "selStationCode": "64",
+        "selDeptName": "台中區",
+        "selStationName": "彰化監理站",
+        "location": "彰化縣花壇鄉南口村中山路2段457號1樓"
+    },
+    {
+        "selDeptCode": "6",
+        "selStationCode": "65",
+        "selDeptName": "台中區",
+        "selStationName": "南投監理站",
+        "location": "南投縣南投市光明一路301號"
+    },
+    {
+        "selDeptCode": "7",
+        "selStationCode": "70",
+        "selDeptName": "嘉義區",
+        "selStationName": "嘉義區監理所",
+        "location": "嘉義縣朴子市朴子七路29號"
+    },
+    {
+        "selDeptCode": "7",
+        "selStationCode": "72",
+        "selDeptName": "嘉義區",
+        "selStationName": "雲林監理站",
+        "location": "雲林縣斗六市雲林路二段411號"
+    },
+    {
+        "selDeptCode": "7",
+        "selStationCode": "73",
+        "selDeptName": "嘉義區",
+        "selStationName": "新營監理站",
+        "location": "臺南市新營區大同路55號"
+    },
+    {
+        "selDeptCode": "7",
+        "selStationCode": "74",
+        "selDeptName": "嘉義區",
+        "selStationName": "台南監理站",
+        "location": "臺南市東區崇德路1號"
+    },
+    {
+        "selDeptCode": "7",
+        "selStationCode": "75",
+        "selDeptName": "嘉義區",
+        "selStationName": "麻豆監理站",
+        "location": "臺南市麻豆區新生北路551號"
+    },
+    {
+        "selDeptCode": "7",
+        "selStationCode": "76",
+        "selDeptName": "嘉義區",
+        "selStationName": "嘉義市監理站",
+        "location": "嘉義市東區保建街89號"
+    },
+    {
+        "selDeptCode": "8",
+        "selStationCode": "80",
+        "selDeptName": "高雄區",
+        "selStationName": "高雄區監理所",
+        "location": "高雄市鳳山區武營路361號"
+    },
+    {
+        "selDeptCode": "8",
+        "selStationCode": "81",
+        "selDeptName": "高雄區",
+        "selStationName": "台東監理站",
+        "location": "台東縣台東市正氣北路441號"
+    },
+    {
+        "selDeptCode": "8",
+        "selStationCode": "82",
+        "selDeptName": "高雄區",
+        "selStationName": "屏東監理站",
+        "location": "屏東縣屏東市忠孝路222號"
+    },
+    {
+        "selDeptCode": "8",
+        "selStationCode": "83",
+        "selDeptName": "高雄區",
+        "selStationName": "恆春監理分站",
+        "location": "屏東縣恆春鎮草埔路11號"
+    },
+    {
+        "selDeptCode": "8",
+        "selStationCode": "84",
+        "selDeptName": "高雄區",
+        "selStationName": "澎湖監理站",
+        "location": "澎湖縣馬公市光華里121號"
+    }
+
+]

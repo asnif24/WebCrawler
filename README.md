@@ -17,6 +17,17 @@
 
 ### PTT
 - requests, BeautifulSoup, json
-    + ptt_over18
+- cookies for over 18 verification
 
-        send cookies to pass the age check
+    send cookies to pass the age check
+
+### Tabelog
+- urllib.request, BeautifulSoup
+
+### MVDIS
+- requests, BeautifulSoup
+- headers to get CSRFToken
+- POST method
+- still needs people to key in CAPTCHA
+
+    get EV plates from mvdis website
